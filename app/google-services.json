@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "544608104107",
+    "firebase_url": "https://savepictogallery.firebaseio.com",
+    "project_id": "savepictogallery",
+    "storage_bucket": "savepictogallery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544608104107:android:9d5ff16bac938842",
+        "android_client_info": {
+          "package_name": "com.example.savepictogallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544608104107-sd9h1mhuc0f03ercn40re1fo9bl7u4e5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.savepictogallery",
+            "certificate_hash": "1299b012d4ece25c09d23069da3acdbb64d518af"
+          }
+        },
+        {
+          "client_id": "544608104107-t300me3go2p7prpfmefpa3h8asgq5edf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvlJsYmVqjdGCDFcKPPuBZQPzPpKybSaw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544608104107-t300me3go2p7prpfmefpa3h8asgq5edf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
